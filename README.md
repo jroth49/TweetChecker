@@ -12,6 +12,6 @@ Look at this for more information on that -------> https://github.com/twintproje
 Below you can see comparisons from the two graphs plotting exported date.
 I compared the tweets from 1/12/22-1/24/22 between FOX and CNN that contained the word COVID.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/jroth49/TweetChecker/blob/main/CNN_NegVsPos.png?raw=true)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
