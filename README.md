@@ -14,4 +14,4 @@ I compared the tweets from 1/12/22-1/24/22 between FOX and CNN that contained th
 
 ![alt text](https://github.com/jroth49/TweetChecker/blob/main/CNN_NegVsPos.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/jroth49/TweetChecker/blob/main/FoxNews_graph.png?raw=true)
