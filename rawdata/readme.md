@@ -1,1 +1,1 @@
-Hello
+These are the excel sheets from running the program. You can see there are two for each account, one is purely raw data that was scraped. The second one contains the filtered data as well as the negative/positive word account from both the tweet and the article attached (if there is one). The images shown represent the tweet's negative/positive word count.
